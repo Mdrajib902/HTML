@@ -1,0 +1,27 @@
+.header{
+    background-image: url("img/silder-img.png") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+}
+.header h1{
+    color:#fff;
+}
+.jumbotron{
+    margin-left: 303px;
+    margin-bottom: 2rem;
+    background-color: transparent;
+    border-radius: .3rem;
+    margin-top: 159px;
+}
+.bg-danger{
+    background-image: url(img/lip.png);
+    background-repeat: no-repeat;
+    padding-right: 105px;
+    background-position: right;
+    padding-bottom: 8px;
+    border-radius: 1px;
+}
+.margin{
+    margin-left: 10px;
+}
